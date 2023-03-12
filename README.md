@@ -32,6 +32,7 @@ chmod +x adb-wifi.sh
 
 ```bash
 brew tap nerandell/adb
+brew update
 ```
 
 2. Install the adb-wifi script by running the following command:
