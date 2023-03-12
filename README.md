@@ -1,6 +1,6 @@
 # adb-wifi
 
-This script connects and enables you to send commands to an Android device over WiFi using ADB. It assumes that the
+`adb-wifi` enables you to send commands to an Android device over WiFi using ADB. It assumes that the
 device is initially connected to the computer via USB, and that the device's WiFi interface is named `wlan0`. If your
 setup is different, you may need to modify the script accordingly.
 
